@@ -1,0 +1,18 @@
+[
+    {
+        "question": "222Who wrote Julius Caesar, Macbeth and Hamlet?",
+        "optionA": "222Wole Soyinka",
+        "optionB": "222William Shakespeare",
+        "optionC": "222Ngozi Chimamanda Adichie",
+        "optionD": "222Dan Brown",
+        "answer": "222William Shakespeare"
+    },
+    {
+        "question": "What’s the most important book in the Moslem religion?",
+        "optionA": "The Koran",
+        "optionB": "The Dictionary",
+        "optionC": "The Bible",
+        "optionD": "The Chemistry text Book",
+        "answer": "The Koran"
+    }
+]

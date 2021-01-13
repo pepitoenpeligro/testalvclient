@@ -1,0 +1,21 @@
+[
+
+
+    {
+        "question": "How many squares are there on a chess board?",
+        "optionA": "128",
+        "optionB": "64",
+        "optionC": "32",
+        "optionD": "256",
+        "answer": "64"
+    },
+
+    {
+        "question": "What are the first three words of the bible?",
+        "optionA": "be with everyone",
+        "optionB": "Again Jesus asked",
+        "optionC": "In the beginning",
+        "optionD": "At that time",
+        "answer": "In the beginning"
+    }
+]
